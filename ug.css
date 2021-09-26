@@ -1,0 +1,31 @@
+.header{
+    color: #FF0000;
+}
+body{
+    background-image: url("/flix.jpg");
+}.p1{
+    font-size: 70px;
+    color: #003638;
+    text-align: center;
+}
+.p2{
+    font-size: 60px;
+    color: #B05B3B;
+    text-align: center;
+
+}
+.p3{
+    font-size: 40px;
+    color: #D79771;
+    text-align: center;
+
+}
+.p4{
+    height: 40px;
+    width: 50%;
+    background-color: #F2E1C1;
+    align-content: center;
+    border-style: dotted;
+    border-radius: 120px ;
+
+}

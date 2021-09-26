@@ -1,0 +1,32 @@
+.header{
+    color: #FF0000;
+}
+body{
+    background-image: url("/you.jpg");
+}
+.container{
+    height: 480px;
+    padding-left: 450px;
+    font-size: 30px;
+    background: #FEF1E6;
+    border-width: 6px;
+    width: 50%;
+    box-sizing:content-box;
+
+}
+.input{
+    width: 50%;
+    height: 40px;
+    border-radius: 4px;
+    border: 2px solid #8CA1A5;
+    background-color: white;
+}
+.input-email{
+    background-color: #3D56B2;
+    width: 50%;
+    height: 40px;
+    border-radius: 4px;
+    font-size: 20px;
+    color: white;
+
+}
